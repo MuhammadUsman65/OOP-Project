@@ -1,0 +1,38 @@
+
+
+noodles	1	21-4-2023	Fri Apr 21 21:19:17 2023        sold
+
+
+eggs	2	21-4-2023	Fri Apr 21 21:19:32 2023        sold
+
+
+water	1	21-4-2023	Fri Apr 21 21:19:32 2023        sold
+
+
+milk	1	21-4-2023	Fri Apr 21 21:30:10 2023        refunded
+	
+
+cereal	1	21-4-2023	Fri Apr 21 21:30:19 2023        refunded
+
+popcorn	5	21-4-2023	Fri Apr 21 21:38:16 2023	    sold
+
+noodles	2	21-4-2023	Fri Apr 21 21:38:38 2023		sold
+
+soda	1	21-4-2023	Fri Apr 21 23:24:48 2023	sold
+
+noodles	1	22-4-2023	Sat Apr 22 02:57:36 2023	sold
+
+soda	1	22-4-2023	Sat Apr 22 02:57:36 202	sold
+
+noodles	2	24-4-2023	Mon Apr 24 17:55:37 2023	sold
+
+juice	2	24-4-2023	Mon Apr 24 17:55:59 2023	sold
+
+noodles	1	24-4-2023	Mon Apr 24 17:57:41 2023	sold
+
+noodles	23	24-4-2023	Mon Apr 24 19:14:10 2023	Stocked
+
+biscuit	5	24-4-2023	Mon Apr 24 20:07:35 2023	Refunded
+
+jam	1	25-4-2023	Tue Apr 25 18:33:01 2023	sold
+

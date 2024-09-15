@@ -1,0 +1,20 @@
+-----------------------
+noodles	70	232
+chips	40	112
+water	40	75
+soda	100	55
+eggs	20	197
+milk	50	80
+bread	100	28
+juice	45	47
+ketchup	150	200
+cheese	100	59
+popcorn	50	54
+pasta	150	28
+yogurt	110	50
+cereal	250	53
+rice	180	28
+beans	85	40
+biscuit	35	57
+oil	250	35
+jam	150	59
