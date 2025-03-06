@@ -1027,5 +1027,7 @@ int main()
 	default:
 		break;
 	}
+
+	cout << "bye bye bye\n";
 	return 0;
 }
